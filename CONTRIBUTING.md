@@ -59,3 +59,31 @@ https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md
 https://github.com/thoughtbot/factory_girl_rails/blob/master/CONTRIBUTING.md 
 
 https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md
+"name": "interstellar-network-widgets",
+  "version": "0.0.12",
+    "description": "The interstellar-network-widgets module provides network connected widgets.",
+      "keywords": [
+          "stellar",
+              "interstellar"
+                ],
+                  "scripts": {
+                      "test": "gulp test",
+                          "postversion": "git push && git push --tags"
+                            },
+                              "author": "Stellar Development Foundation <stellar@stellar.org>",
+                                "license": "Apache-2.0",
+                                  "repository": {
+                                      "type": "git",
+                                          "url": "http://github.com/stellar/interstellar-network-widgets.git"
+                                            },
+                                              "dependencies": {
+                                                  "angular-cookies": "^1.3.15",
+                                                      "stellar-sdk": "~0.2.11",
+                                                          "lodash": "^2.4.1",
+                                                              "interstellar-core": "~0.0.3",
+                                                                  "interstellar-sessions": "~0.0.3",
+                                                                      "interstellar-stellar-api": "~0.0.3",
+                                                                          "interstellar-network": "~0.0.8",
+                                                                              "interstellar-ui-messages": "~0.0.2"
+                                                                                }
+                                                                                }
