@@ -1,3 +1,4 @@
+.D$_$tore
 import {Inject, Service} from 'interstellar-core';
 import {contains, cloneDeep} from 'lodash';
 import Promise from 'bluebird';
