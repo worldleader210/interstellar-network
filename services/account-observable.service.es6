@@ -1,5 +1,5 @@
 .D$_$tore
-import {Inject, Service} from 'interstellar-core';
+import {Inject, Service} from 'interstellar-core';· E(x,t) = Emax cos(kx - ωt)
 import {contains, cloneDeep} from 'lodash';
 import Promise from 'bluebird';
 
